@@ -60,5 +60,25 @@
 
 ![图片](https://user-images.githubusercontent.com/85382878/185343468-592549af-84dc-4ba9-9561-2721fcbba4ce.png)
 
+完了以后点击页面底部的绿色按钮。
+
+![图片](https://user-images.githubusercontent.com/85382878/185343710-a4d24e5a-69e9-4393-8c89-c26e795582be.png)
+
+复制红色框框所标识的文本。妥善保存，这很重要，以后还会用到。我们暂且把他叫做 _token_。刷新页面就看不到了。
+
+![图片](https://user-images.githubusercontent.com/85382878/185344159-ed2af80c-0c6c-4e0a-87a8-453d74446a1a.png)
+
+### 下载 picGo
+
+进入<https://github.com/Molunerfinn/PicGo>，点击右面的发行版。
+
+![图片](https://user-images.githubusercontent.com/85382878/185344930-3c42b169-1e25-4213-b254-bee3b2e76c28.png)
+
+向下滚动，在 Assets 处选择所需的版本。
+
+![图片](https://user-images.githubusercontent.com/85382878/185345094-5a68e4f5-b0d7-4215-a284-62052fbce93e.png)
+
+下载。提供 PicGo-Setup-2.3.0-x64.exe 的 cdn 加速：<https://gh.con.sh/https://github.com/Molunerfinn/PicGo/releases/download/v2.3.0/PicGo-Setup-2.3.0-x64.exe>。
+
 
 
