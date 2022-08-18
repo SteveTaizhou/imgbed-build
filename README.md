@@ -2,6 +2,8 @@
 
 参考文章：[使用Github+picGo搭建图床，保姆级教程来了](https://zhuanlan.zhihu.com/p/489236769 "知乎")
 
+仓库：SteveTaizhou/imgbed-build
+
 ## 0 准备工作
 
 一台电脑，一个 GitHub 账号，一个人。
