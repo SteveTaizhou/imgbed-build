@@ -74,7 +74,7 @@
 
 ## 3 下载 PicGo
 
-进入<https://github.com/Molunerfinn/PicGo>，点击右面的发行版。
+进入<https://github.com/Molunerfinn/PicGo>，点击右边的发行版。
 
 ![图片](https://user-images.githubusercontent.com/85382878/185344930-3c42b169-1e25-4213-b254-bee3b2e76c28.png)
 
