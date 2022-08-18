@@ -1,4 +1,4 @@
-# 手把手教你用 GitHub 自建私人图床
+# 手把手教你用 GitHub 和 PicGo 自建私人图床
 
 参考文章：[使用Github+picGo搭建图床，保姆级教程来了](https://zhuanlan.zhihu.com/p/489236769 "知乎")
 
@@ -6,11 +6,9 @@
 
 一台电脑，一个 GitHub 账号，一个人。
 
-## 1 资源准备
-
 打开 GitHub，网址：<https://github.com/>。登录（或许要先注册）。
 
-### 仓库搭建
+## 1 仓库搭建
 
 在屏幕右上角点击加号，在下拉菜单中点击 New repository，也可以直接去<https://github.com/new>。
 
@@ -32,7 +30,7 @@
 
 完成后，复制页面 URL 中 `https://github.com/` 后面的部分，我们把他叫做 _path_。
 
-### 令牌生成
+## 2 令牌生成
 
 点击用户头像，在下拉菜单中点击 Settings。
 
@@ -70,7 +68,7 @@
 
 ![图片](https://user-images.githubusercontent.com/85382878/185344159-ed2af80c-0c6c-4e0a-87a8-453d74446a1a.png)
 
-### 下载 picGo
+## 3 下载 PicGo
 
 进入<https://github.com/Molunerfinn/PicGo>，点击右面的发行版。
 
@@ -82,7 +80,36 @@
 
 下载。提供 PicGo-Setup-2.3.0-x64.exe 的 cdn 加速：<https://gh.con.sh/https://github.com/Molunerfinn/PicGo/releases/download/v2.3.0/PicGo-Setup-2.3.0-x64.exe>。
 
+运行，安装，启动。
+
+## 4 配置 PicGo
+
+依次点击 图床设置 GitHub图床。
+
 ![图片](https://user-images.githubusercontent.com/85382878/185346225-65ce0f3a-24c6-49ca-bd56-2d68cffa9556.png)
+
+仓库名填写 _path_。  
+分支名填写 `main`。  
+Token填写 _token_。  
+存储路径填写 `<文件夹名>/`，建议填写 `img/`。
+
+自定义域名可写可不写，如果填写就会使用 cdn 进行加速。推荐填写：`https://gcore.jsdelivr.net/gh/<path>@main`。
+
+点击 确定，推荐点击 设为默认图床。
+
+## 5 使用方法
+
+PicGo 会在盛传完成后自动复制图片 URL 到剪切板。
+
+1. 把图片拖拽至上传区的方框内。
+2. 点击方框，选择图片。
+3. 点击快捷上传的 剪切板图片 快速上传剪切板内的图片。可以使用快捷键替代，默认是 `Cmd/Ctrl + Shift + P`。可在 PicGo 设置 中更改。
+4. 点击窗口关闭键左侧的![图片](https://user-images.githubusercontent.com/85382878/185349867-3e37a820-3601-439a-a0f0-eb70e5be39de.png)，打开悬浮窗。把图片拖拽至悬浮窗内。
+
+# 好的就到这里了。都会用了吧？
+
+###### 2022年8月18日16点36分
+
 
 
 
