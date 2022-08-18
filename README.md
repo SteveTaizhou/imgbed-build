@@ -92,6 +92,8 @@
 
 ![图片](https://user-images.githubusercontent.com/85382878/185346225-65ce0f3a-24c6-49ca-bd56-2d68cffa9556.png)
 
+![图片](https://user-images.githubusercontent.com/85382878/185352064-5eb5eeed-459e-48a5-ba4e-0c0fe3d7144e.png)
+
 仓库名填写 _path_。  
 分支名填写 `main`。  
 Token填写 _token_。  
