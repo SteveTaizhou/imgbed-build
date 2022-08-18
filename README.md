@@ -2,7 +2,7 @@
 
 参考文章：[使用Github+picGo搭建图床，保姆级教程来了](https://zhuanlan.zhihu.com/p/489236769 "知乎")
 
-仓库：SteveTaizhou/imgbed-build
+仓库：`SteveTaizhou/imgbed-build`
 
 ## 0 准备工作
 
@@ -29,6 +29,8 @@
 滚动到最底部，点击绿色按钮即可。耐心等待。
 
 ![图片](https://user-images.githubusercontent.com/85382878/185340479-af421674-281f-44b5-bb06-bd78ef18d935.png)
+
+**提示** 可以简单的进入<https://github.com/SteveTaizhou/imgbed-build/fork>直接 fork 本仓库。
 
 完成后，复制页面 URL 中 `https://github.com/` 后面的部分，我们把他叫做 _path_。
 
