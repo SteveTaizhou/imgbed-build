@@ -30,6 +30,8 @@
 
 ![图片](https://user-images.githubusercontent.com/85382878/185340479-af421674-281f-44b5-bb06-bd78ef18d935.png)
 
+完成后，复制页面 URL 中 `https://github.com/` 后面的部分，我们把他叫做 _path_。
+
 ### 令牌生成
 
 点击用户头像，在下拉菜单中点击 Settings。
@@ -64,7 +66,7 @@
 
 ![图片](https://user-images.githubusercontent.com/85382878/185343710-a4d24e5a-69e9-4393-8c89-c26e795582be.png)
 
-复制红色框框所标识的文本。妥善保存，这很重要，以后还会用到。我们暂且把他叫做 _token_。刷新页面就看不到了。
+复制红色框框所标识的文本。妥善保存，这很重要，以后还会用到。我们把他叫做 _token_。刷新页面就看不到了。
 
 ![图片](https://user-images.githubusercontent.com/85382878/185344159-ed2af80c-0c6c-4e0a-87a8-453d74446a1a.png)
 
@@ -79,6 +81,8 @@
 ![图片](https://user-images.githubusercontent.com/85382878/185345094-5a68e4f5-b0d7-4215-a284-62052fbce93e.png)
 
 下载。提供 PicGo-Setup-2.3.0-x64.exe 的 cdn 加速：<https://gh.con.sh/https://github.com/Molunerfinn/PicGo/releases/download/v2.3.0/PicGo-Setup-2.3.0-x64.exe>。
+
+![图片](https://user-images.githubusercontent.com/85382878/185346225-65ce0f3a-24c6-49ca-bd56-2d68cffa9556.png)
 
 
 
