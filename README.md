@@ -8,6 +8,8 @@
 
 ## 1 资源准备
 
+打开 GitHub，网址：<https://github.com/>。登录（或许要先注册）。
+
 ### 仓库搭建
 
 在屏幕右上角点击加号，在下拉菜单中点击 New repository，也可以直接去<https://github.com/new>。
@@ -27,5 +29,36 @@
 滚动到最底部，点击绿色按钮即可。耐心等待。
 
 ![图片](https://user-images.githubusercontent.com/85382878/185340479-af421674-281f-44b5-bb06-bd78ef18d935.png)
+
+### 令牌生成
+
+点击用户头像，在下拉菜单中点击 Settings。
+
+![图片](https://user-images.githubusercontent.com/85382878/185341074-9f7b7b41-efd8-49a0-9dc6-b3b936daa8fa.png)
+
+在左侧菜单中点击 Developer settings，应该在最底部。
+
+![图片](https://user-images.githubusercontent.com/85382878/185341507-f5efc384-1bea-4492-9b3d-2bddb61aa727.png)
+
+然后在左侧菜单中点击 Personal access tokens。
+
+![图片](https://user-images.githubusercontent.com/85382878/185341803-8b63c7d0-c031-4f10-85be-2c972045a1da.png)
+
+点击 Generate new token。
+
+![图片](https://user-images.githubusercontent.com/85382878/185342051-cd13bfd5-8b3d-4b3f-aec4-01f50ae607e5.png)
+
+此时页面 URL：<https://github.com/settings/tokens/new>。
+
+![图片](https://user-images.githubusercontent.com/85382878/185343047-3ac3fc95-7175-44ef-b00a-bbaa3083ed23.png)
+
+1. 表示用途。
+2. 表示有效期。
+3. 必须勾选。
+
+下拉菜单内容：
+
+![图片](https://user-images.githubusercontent.com/85382878/185343468-592549af-84dc-4ba9-9561-2721fcbba4ce.png)
+
 
 
