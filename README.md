@@ -2,6 +2,8 @@
 
 参考文章：[使用Github+picGo搭建图床，保姆级教程来了](https://zhuanlan.zhihu.com/p/489236769 "知乎")
 
+推荐使用：<https://greasyfork.org/zh-CN/scripts/412245-github-增强-高速下载>
+
 仓库：`SteveTaizhou/s-imgbed`
 
 ## 0 准备工作
