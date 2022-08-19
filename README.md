@@ -101,7 +101,9 @@
 Token填写 _token_。  
 存储路径填写 `<文件夹名>/`，建议填写 `img/`。
 
-自定义域名可写可不写，如果填写就会使用 cdn 进行加速。推荐填写：`https://gcore.jsdelivr.net/gh/<path>@main`。
+自定义域名可写可不写，如果填写就会使用 cdn 进行加速。
+
+[//]: (推荐填写：`https://gcore.jsdelivr.net/gh/<path>@main`。)
 
 点击 确定，建议再点击 设为默认图床。
 
